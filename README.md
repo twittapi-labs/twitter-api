@@ -24,7 +24,7 @@ Here's a basic example of how to use the API:
 > First, you need to get the `X_RAPIDAPI_KEY`. See more: [How to get X_RAPIDAPI_KEY?](#how-to-get-x_rapidapi_key).
 
 ```python
-from twitter_api import TwitterAPI
+from twittapi import TwitterAPI
 
 X_RAPIDAPI_KEY = '<YOUR_X_RAPIDAPI_KEY>'
 twitter = TwitterAPI(X_RAPIDAPI_KEY)
