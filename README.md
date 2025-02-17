@@ -1,9 +1,5 @@
 # Unofficial Twitter API In Python
 
-<p align="center">
-  <img src="https://github.com/twittapi-labs/twitter-api/blob/main/public/images/logo.png" width="160">
-</p>
-
 ## Overview
 This project is an unofficial Python wrapper for the Twitter API, enabling developers to easily access and retrieve data from Twitter without the need for Cookies or Proxies.
 
