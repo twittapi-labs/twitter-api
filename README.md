@@ -12,6 +12,16 @@ This project is an unofficial Python wrapper for the Twitter API, enabling devel
 [![Vistors](https://visitor-badge.laobi.icu/badge?page_id=twittapi-labs.twitter-api&title=Visitors)](https://github.com/twittapi-labs/twitter-api)
 [![License](https://img.shields.io/github/license/twittapi-labs/twitter-api?label=License)](https://mit-license.org/)
 
+## Sponsors
+<div align="center">
+  <a href="https://rapidapi.com/Lundehund/api/twitter-x-api" target="_blank">
+    <img src="./public/images/twittapi.png" width="100" alt="twittapi">
+    <div>
+      <b>twittapi</b> is the fastest and most stable Twitter API available. Provides seamless integration and reliable performance for all your Twitter data needs. And don't need to use your cookie or worry about proxy.
+    </div>
+  </a>
+</div>
+
 ## Installation
 To install the package, use pip:
 ```bash
